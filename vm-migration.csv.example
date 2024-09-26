@@ -1,0 +1,2 @@
+﻿#Source Resource Group Name,Source VM Name,Source OS Type,Desired Resource Group Name,Desired VM Name,Desired Zone
+rg-zone-migration,vm-zone,Linux,rg-zone-migration,vm-zone,1
